@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1557626877411">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1557633134572">
   <folder name="css">
     <file name="site_global.css" crc="367793749"/>
-    <file name="index.css" crc="3880668680" ref="index"/>
-    <file name="nomq_index.css" crc="4273959450" ref="index"/>
+    <file name="index.css" crc="389635221" ref="index"/>
+    <file name="nomq_index.css" crc="4169164970" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -60,6 +60,20 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="grafico.png" crc="412497843" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="app.png" crc="484025998" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="quienes-somos.png" crc="336959440" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -96,16 +110,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u3736.png" crc="177280174" ref="index"/>
+    <file name="u3736.png" crc="413438256" ref="index"/>
     <file name="u3736-r.png" crc="3948407163" ref="index"/>
     <file name="u3736-m.png" crc="366095522" ref="index"/>
-    <file name="u3744.png" crc="517683659" ref="index"/>
+    <file name="u3744.png" crc="248511371" ref="index"/>
     <file name="u3744-r.png" crc="3841135555" ref="index"/>
     <file name="u3744-m.png" crc="4290959930" ref="index"/>
-    <file name="u3751.png" crc="2728977" ref="index"/>
+    <file name="u3751.png" crc="4005539723" ref="index"/>
     <file name="u3751-r.png" crc="287415574" ref="index"/>
     <file name="u3751-m.png" crc="344582489" ref="index"/>
-    <file name="u3758.png" crc="4070890639" ref="index"/>
+    <file name="u3758.png" crc="32099324" ref="index"/>
     <file name="u3758-r.png" crc="307409168" ref="index"/>
     <file name="u3758-m.png" crc="4092673444" ref="index"/>
     <file name="u37362.png" crc="3977662145" ref="index"/>
@@ -180,6 +194,13 @@
     <file name="u37585.png" crc="3980803012" ref="index"/>
     <file name="u3758-r5.png" crc="4147786551" ref="index"/>
     <file name="u3758-m5.png" crc="3774603710" ref="index"/>
+    <file name="01-location.png" crc="3998165546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3817312414" seo="true" mt="1557626849196" redirect="true"/>
+  <file name="index.html" crc="286539663" seo="true" mt="1557633097727" redirect="true"/>
 </manifest>

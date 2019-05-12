@@ -38,5 +38,8 @@
     <image:image>
       <image:loc>http://ejemplo.com/images/1%20(3)101x135.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://ejemplo.com/images/01-location.png</image:loc>
+    </image:image>
   </url>
 </urlset>
