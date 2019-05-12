@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1557617957708">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1557626877411">
   <folder name="css">
     <file name="site_global.css" crc="367793749"/>
-    <file name="index.css" crc="50214671" ref="index"/>
-    <file name="nomq_index.css" crc="335064475" ref="index"/>
+    <file name="index.css" crc="3880668680" ref="index"/>
+    <file name="nomq_index.css" crc="4273959450" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="3803043152" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
@@ -29,11 +29,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="cabecera-02.jpg" crc="524066571" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -46,7 +44,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="flecha-izquierda.png" crc="3975364059" ref="index">
       <caption webpage="index" alt=""/>
@@ -54,10 +51,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="flecha-derecha.png" crc="152649081" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -71,10 +66,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="que-hacemos.png" crc="482448688" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -84,15 +77,12 @@
     <file name="1 (2).jpg" crc="4253040270" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="1 (3).jpg" crc="107753106" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="1 (1).jpg" crc="3935730583" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -105,44 +95,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="1 (2)171x231.jpg" crc="304569692" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1 (3)173x231.jpg" crc="3922049788" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="menu.png" crc="3935061649" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cerrado.png" crc="473227605" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1 (2)100x135.jpg" crc="3997221199" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1 (3)101x135.jpg" crc="4208993727" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u3736.png" crc="3940868623" ref="index"/>
-    <file name="u3736-r.png" crc="216780703" ref="index"/>
-    <file name="u3736-m.png" crc="370869436" ref="index"/>
-    <file name="u3744.png" crc="3889055063" ref="index"/>
-    <file name="u3744-r.png" crc="3778466620" ref="index"/>
-    <file name="u3744-m.png" crc="3804247383" ref="index"/>
-    <file name="u3751.png" crc="3821408065" ref="index"/>
-    <file name="u3751-r.png" crc="229312669" ref="index"/>
-    <file name="u3751-m.png" crc="4086849267" ref="index"/>
-    <file name="u3758.png" crc="359707034" ref="index"/>
-    <file name="u3758-r.png" crc="381475403" ref="index"/>
-    <file name="u3758-m.png" crc="3958181928" ref="index"/>
+    <file name="u3736.png" crc="177280174" ref="index"/>
+    <file name="u3736-r.png" crc="3948407163" ref="index"/>
+    <file name="u3736-m.png" crc="366095522" ref="index"/>
+    <file name="u3744.png" crc="517683659" ref="index"/>
+    <file name="u3744-r.png" crc="3841135555" ref="index"/>
+    <file name="u3744-m.png" crc="4290959930" ref="index"/>
+    <file name="u3751.png" crc="2728977" ref="index"/>
+    <file name="u3751-r.png" crc="287415574" ref="index"/>
+    <file name="u3751-m.png" crc="344582489" ref="index"/>
+    <file name="u3758.png" crc="4070890639" ref="index"/>
+    <file name="u3758-r.png" crc="307409168" ref="index"/>
+    <file name="u3758-m.png" crc="4092673444" ref="index"/>
     <file name="u37362.png" crc="3977662145" ref="index"/>
     <file name="u3736-r2.png" crc="337273129" ref="index"/>
     <file name="u3736-m2.png" crc="4009471171" ref="index"/>
@@ -155,18 +120,36 @@
     <file name="u37582.png" crc="3932712053" ref="index"/>
     <file name="u3758-r2.png" crc="4294965730" ref="index"/>
     <file name="u3758-m2.png" crc="3989732299" ref="index"/>
-    <file name="u37363.png" crc="3977662145" ref="index"/>
-    <file name="u3736-r3.png" crc="337273129" ref="index"/>
-    <file name="u3736-m3.png" crc="4009471171" ref="index"/>
-    <file name="u37443.png" crc="288034868" ref="index"/>
-    <file name="u3744-r3.png" crc="3933176826" ref="index"/>
-    <file name="u3744-m3.png" crc="3916655233" ref="index"/>
-    <file name="u37513.png" crc="4254374121" ref="index"/>
-    <file name="u3751-r3.png" crc="4080223401" ref="index"/>
-    <file name="u3751-m3.png" crc="4192206412" ref="index"/>
-    <file name="u37583.png" crc="3932712053" ref="index"/>
-    <file name="u3758-r3.png" crc="4294965730" ref="index"/>
-    <file name="u3758-m3.png" crc="3989732299" ref="index"/>
+    <file name="1 (2)171x231.jpg" crc="304569692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1 (3)173x231.jpg" crc="3922049788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u37363.png" crc="116024988" ref="index"/>
+    <file name="u3736-r3.png" crc="4106724163" ref="index"/>
+    <file name="u3736-m3.png" crc="4022290465" ref="index"/>
+    <file name="u37443.png" crc="18111424" ref="index"/>
+    <file name="u3744-r3.png" crc="86930064" ref="index"/>
+    <file name="u3744-m3.png" crc="200098647" ref="index"/>
+    <file name="u37513.png" crc="146393435" ref="index"/>
+    <file name="u3751-r3.png" crc="511286889" ref="index"/>
+    <file name="u3751-m3.png" crc="3832230462" ref="index"/>
+    <file name="u37583.png" crc="361647540" ref="index"/>
+    <file name="u3758-r3.png" crc="3758516011" ref="index"/>
+    <file name="u3758-m3.png" crc="55424113" ref="index"/>
+    <file name="menu.png" crc="3935061649" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u37364.png" crc="116024988" ref="index"/>
     <file name="u3736-r4.png" crc="4106724163" ref="index"/>
     <file name="u3736-m4.png" crc="4022290465" ref="index"/>
@@ -179,30 +162,24 @@
     <file name="u37584.png" crc="361647540" ref="index"/>
     <file name="u3758-r4.png" crc="3758516011" ref="index"/>
     <file name="u3758-m4.png" crc="55424113" ref="index"/>
-    <file name="u37365.png" crc="116024988" ref="index"/>
-    <file name="u3736-r5.png" crc="4106724163" ref="index"/>
-    <file name="u3736-m5.png" crc="4022290465" ref="index"/>
-    <file name="u37445.png" crc="18111424" ref="index"/>
-    <file name="u3744-r5.png" crc="86930064" ref="index"/>
-    <file name="u3744-m5.png" crc="200098647" ref="index"/>
-    <file name="u37515.png" crc="146393435" ref="index"/>
-    <file name="u3751-r5.png" crc="511286889" ref="index"/>
-    <file name="u3751-m5.png" crc="3832230462" ref="index"/>
-    <file name="u37585.png" crc="361647540" ref="index"/>
-    <file name="u3758-r5.png" crc="3758516011" ref="index"/>
-    <file name="u3758-m5.png" crc="55424113" ref="index"/>
-    <file name="u37366.png" crc="4094449834" ref="index"/>
-    <file name="u3736-r6.png" crc="198091226" ref="index"/>
-    <file name="u3736-m6.png" crc="15894696" ref="index"/>
-    <file name="u37446.png" crc="3856208470" ref="index"/>
-    <file name="u3744-r6.png" crc="8721527" ref="index"/>
-    <file name="u3744-m6.png" crc="274855826" ref="index"/>
-    <file name="u37516.png" crc="4064792123" ref="index"/>
-    <file name="u3751-r6.png" crc="17931544" ref="index"/>
-    <file name="u3751-m6.png" crc="101314165" ref="index"/>
-    <file name="u37586.png" crc="3980803012" ref="index"/>
-    <file name="u3758-r6.png" crc="4147786551" ref="index"/>
-    <file name="u3758-m6.png" crc="3774603710" ref="index"/>
+    <file name="1 (2)100x135.jpg" crc="3997221199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1 (3)101x135.jpg" crc="4208993727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u37365.png" crc="4094449834" ref="index"/>
+    <file name="u3736-r5.png" crc="198091226" ref="index"/>
+    <file name="u3736-m5.png" crc="15894696" ref="index"/>
+    <file name="u37445.png" crc="3856208470" ref="index"/>
+    <file name="u3744-r5.png" crc="8721527" ref="index"/>
+    <file name="u3744-m5.png" crc="274855826" ref="index"/>
+    <file name="u37515.png" crc="4064792123" ref="index"/>
+    <file name="u3751-r5.png" crc="17931544" ref="index"/>
+    <file name="u3751-m5.png" crc="101314165" ref="index"/>
+    <file name="u37585.png" crc="3980803012" ref="index"/>
+    <file name="u3758-r5.png" crc="4147786551" ref="index"/>
+    <file name="u3758-m5.png" crc="3774603710" ref="index"/>
   </folder>
-  <file name="index.html" crc="4097775786" seo="true" mt="1557613745585" redirect="true"/>
+  <file name="index.html" crc="3817312414" seo="true" mt="1557626849196" redirect="true"/>
 </manifest>
