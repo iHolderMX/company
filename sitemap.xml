@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ejemplo.com/index.html</loc>
-    <lastmod>2019-05-12</lastmod>
+    <lastmod>2019-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -40,6 +40,9 @@
     </image:image>
     <image:image>
       <image:loc>http://ejemplo.com/images/01-location.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ejemplo.com/images/color%20copia.png</image:loc>
     </image:image>
   </url>
 </urlset>
